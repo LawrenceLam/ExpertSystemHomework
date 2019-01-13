@@ -1,0 +1,14 @@
+﻿会飞and会生蛋then是鸟
+有毛发then是哺乳动物
+有奶then是哺乳动物
+有羽毛then是鸟
+有锋利牙齿and有爪and眼向前方then是食肉动物
+是哺乳动物and有蹄then是有蹄类动物
+是哺乳动物and反刍then是有蹄类动物
+是哺乳动物and是食肉动物and有黄褐色皮毛and有暗斑点then是豹
+是哺乳动物and是食肉动物and有黄褐色皮毛and有黑色条纹then是虎
+是有蹄类动物and有长脖子and有长腿and有暗斑点then是长颈鹿
+是有蹄类动物and有黑色条纹then是斑马
+是鸟and不会飞and有长脖子and有长腿and有黑白二色then是鸵鸟
+是鸟and不会飞and会游泳and有黑白二色then是企鹅
+是鸟and善飞then是信天翁
